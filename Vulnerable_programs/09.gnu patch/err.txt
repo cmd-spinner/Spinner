@@ -1,0 +1,11 @@
+[lib/basename-lgpl.c:66]: (error) Null pointer dereference
+[lib/dirname-lgpl.c:75]: (error) Null pointer dereference
+[lib/malloca.c:67]: (error) Memory leak: mem
+[lib/memchr.c:105]: (error) Shifting 64-bit value by 64 bits is undefined behaviour
+[lib/memchr.c:106]: (error) Shifting 64-bit value by 64 bits is undefined behaviour
+[lib/memrchr.c:92]: (error) Shifting 64-bit value by 64 bits is undefined behaviour
+[lib/memrchr.c:93]: (error) Shifting 64-bit value by 64 bits is undefined behaviour
+[src/pch.c:187]: (error) Common realloc mistake: 'p_line' nulled but not freed upon failure
+[src/pch.c:188]: (error) Common realloc mistake: 'p_len' nulled but not freed upon failure
+[src/pch.c:189]: (error) Common realloc mistake: 'p_Char' nulled but not freed upon failure
+(information) Too many #ifdef configurations - cppcheck only checks 12 configurations. Use --force to check all configurations. For more details, use --enable=information.

@@ -1,0 +1,27 @@
+[leptonica-1.74.4/prog/binmorph3_reg.c:98]: (error) Possible null pointer dereference: selnamev
+[leptonica-1.74.4/src/ccbord.c:384]: (error) Memory leak: ccb
+[leptonica-1.74.4/src/ccbord.c:387]: (error) Memory leak: ccb
+[leptonica-1.74.4/src/ccbord.c:390]: (error) Memory leak: ccb
+[leptonica-1.74.4/src/colorquant1.c:2485]: (error) Memory leak: lut1
+[leptonica-1.74.4/src/colorquant1.c:2485]: (error) Memory leak: oqca
+[leptonica-1.74.4/src/colorquant1.c:3968]: (error) Memory leak: histo
+[leptonica-1.74.4/src/colorquant1.c:3995]: (error) Memory leak: map1
+[leptonica-1.74.4/src/colorquant1.c:4035]: (error) Memory leak: map2
+[leptonica-1.74.4/src/grayquant.c:1415]: (error) Memory leak: bincount
+[leptonica-1.74.4/src/grayquant.c:1431]: (error) Memory leak: binave
+[leptonica-1.74.4/src/grayquantlow.c:558]: (error) Memory leak: tabval
+[leptonica-1.74.4/src/grayquantlow.c:560]: (error) Memory leak: tabval
+[leptonica-1.74.4/src/grayquantlow.c:560]: (error) Memory leak: tab38
+[leptonica-1.74.4/src/morphdwa.c:1259]: (error) Uninitialized variable: nv
+[leptonica-1.74.4/src/morphdwa.c:1379]: (error) Uninitialized variable: nv
+[leptonica-1.74.4/src/pdfio2.c:834]: (error) Memory pointed to by 'datacomp' is freed twice.
+[leptonica-1.74.4/src/pixacc.c:104]: (error) Memory leak: pixacc
+[leptonica-1.74.4/src/ropiplow.c:177]: (error) Uninitialized variable: fwmask
+[leptonica-1.74.4/src/ropiplow.c:191]: (error) Uninitialized variable: pdfwpart
+[leptonica-1.74.4/src/ropiplow.c:192]: (error) Uninitialized variable: psfwpart
+[leptonica-1.74.4/src/roplow.c:326]: (error) Uninitialized variable: dfwmask
+[leptonica-1.74.4/src/roplow.c:340]: (error) Uninitialized variable: pdfwpart
+[leptonica-1.74.4/src/roplow.c:877]: (error) Uninitialized variable: dfwmask
+[leptonica-1.74.4/src/roplow.c:891]: (error) Uninitialized variable: pdfwpart
+[leptonica-1.74.4/src/roplow.c:892]: (error) Uninitialized variable: psfwpart
+[leptonica-1.74.4/src/roplow.c:1455]: (error) Uninitialized variable: dfwmask

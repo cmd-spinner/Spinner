@@ -1,0 +1,13 @@
+[.sconf_temp/conftest_93.c:5]: (error) Uninitialized variable: x
+[src/http_auth.c:162]: (error) Expression 'hi|=32,'a'<=hi&&hi<='f'' depends on order of evaluation of side effects
+[src/http_auth.c:165]: (error) Expression 'lo|=32,'a'<=lo&&lo<='f'' depends on order of evaluation of side effects
+[src/lemon.c:753]: (error) Return value of allocation function 'getstate' is not stored.
+[src/lemon.c:1420]: (error) Return value of allocation function 'Symbol_new' is not stored.
+[src/lemon.c:1432]: (error) Return value of allocation function 'Symbol_new' is not stored.
+[src/lemon.c:2269]: (error) Memory leak: sp
+[src/lemon.c:3886]: (error) Memory leak: array.tbl
+[src/lemon.c:4051]: (error) Memory leak: array.tbl
+[src/lemon.c:4258]: (error) Memory leak: array.tbl
+[src/lemon.c:4409]: (error) Memory leak: array.tbl
+[src/plugin.c:80]: (error) Invalid number of character '(' when these macros are defined: '__WIN32'.
+(information) Too many #ifdef configurations - cppcheck only checks 12 configurations. Use --force to check all configurations. For more details, use --enable=information.

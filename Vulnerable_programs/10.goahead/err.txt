@@ -1,0 +1,2 @@
+[test/cgitest.c:492]: (error) Common realloc mistake: 'buf' nulled but not freed upon failure
+(information) Too many #ifdef configurations - cppcheck only checks 12 configurations. Use --force to check all configurations. For more details, use --enable=information.
